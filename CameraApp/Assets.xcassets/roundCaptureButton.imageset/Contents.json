@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "round_fiber_manual_record_white_36pt_1x.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "preserves-vector-representation" : true
+  }
+}
